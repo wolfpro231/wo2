@@ -1,0 +1,6 @@
+owner=373080890710163456
+prefix=S
+game=Shelp _ Splay
+stayinchannel=true
+songinstatus=false
+token=NTU0NjMwOTc0NzMwNjY1OTg1.D2fb9w.v0VYfuL4oUSiUGPm6AFWW4Inb9E
